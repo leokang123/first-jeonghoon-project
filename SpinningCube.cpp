@@ -16,7 +16,7 @@ int distanceFromCam = 50;
 float K1 = 50;
 
 float incrementSpeed = 1;
-
+int what;
 float x,y,z;
 float ooz;
 float xp,yp;
